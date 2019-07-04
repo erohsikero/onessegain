@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "612468175750",
+    "firebase_url": "https://onessegainandroid.firebaseio.com",
+    "project_id": "onessegainandroid",
+    "storage_bucket": "onessegainandroid.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:612468175750:android:d89c3954757df191",
+        "android_client_info": {
+          "package_name": "com.example.onessegain"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "612468175750-rrvu814pm2ncsgkoasfa43vtsbak02em.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.onessegain",
+            "certificate_hash": "4046ca47468fa2d6b70b9c0cfac8bfac890d0997"
+          }
+        },
+        {
+          "client_id": "612468175750-0nb0g3u7oas36cq3lfsp655hqalk5k9u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYNS_Tgn9E0QiMvV50ehp5KvV5v3_AoOo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "612468175750-0nb0g3u7oas36cq3lfsp655hqalk5k9u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
